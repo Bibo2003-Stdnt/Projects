@@ -1,3 +1,4 @@
+//This is my first project
 const inputText = document.getElementById("inputText");
 const clearButton = document.getElementById("clearButton");
 const equalsButton = document.getElementById("equalsButton");
